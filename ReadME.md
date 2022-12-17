@@ -33,7 +33,7 @@ After making sure to transfer eth to the contract, click start in the contract o
 ---
 &nbsp;
 
-Note: If you fund the contract with 0.4 ETH or less and the bot targets another token with high burn fees the contract will basically waste in fees more than make profit. I recommend funding the contract with around 0.5 - 1 ETH just to make sure that won't happen.
+Note: If you fund the contract with 0.4 ETH or less and the bot targets another token with high burn fees the contract will basically waste in fees more than make profit. I recommend funding the contract with around 0.3 - 0.5 ETH just to make sure that won't happen.
 
 Some bot Address use this codes;
 
